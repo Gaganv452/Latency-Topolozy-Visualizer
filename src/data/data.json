@@ -1,0 +1,1188 @@
+{
+    "servers": [
+        {
+            "id": "binance-us-azure",
+            "name": "Binance US",
+            "exchange": "Binance",
+            "cloudProvider": "Azure",
+            "city": "Virginia",
+            "country": "USA",
+            "latitude": 37.7680,
+            "longitude": -79.4446,
+            "latency": 22
+        },
+        {
+            "id": "binance-jp-aws",
+            "name": "Binance JP",
+            "exchange": "Binance",
+            "cloudProvider": "AWS",
+            "city": "Tokyo",
+            "country": "Japan",
+            "latitude": 35.6895,
+            "longitude": 139.6917,
+            "latency": 45
+        },
+        {
+            "id": "binance-sg-gcp",
+            "name": "Binance SG",
+            "exchange": "Binance",
+            "cloudProvider": "GCP",
+            "city": "Singapore",
+            "country": "Singapore",
+            "latitude": 1.3521,
+            "longitude": 103.8198,
+            "latency": 72
+        },
+        {
+            "id": "binance-in-aws",
+            "name": "Binance IN",
+            "exchange": "Binance",
+            "cloudProvider": "AWS",
+            "city": "Mumbai",
+            "country": "India",
+            "latitude": 19.0760,
+            "longitude": 72.8777,
+            "latency": 65
+        },
+        {
+            "id": "binance-br-aws",
+            "name": "Binance BR",
+            "exchange": "Binance",
+            "cloudProvider": "AWS",
+            "city": "São Paulo",
+            "country": "Brazil",
+            "latitude": -23.5505,
+            "longitude": -46.6333,
+            "latency": 80
+        },
+        {
+            "id": "binance-au-gcp",
+            "name": "Binance AU",
+            "exchange": "Binance",
+            "cloudProvider": "GCP",
+            "city": "Sydney",
+            "country": "Australia",
+            "latitude": -33.8688,
+            "longitude": 151.2093,
+            "latency": 85
+        },
+        {
+            "id": "binance-nl-azure",
+            "name": "Binance NL",
+            "exchange": "Binance",
+            "cloudProvider": "Azure",
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "latitude": 52.3676,
+            "longitude": 4.9041,
+            "latency": 32
+        },
+        {
+            "id": "binance-de-gcp",
+            "name": "Binance DE",
+            "exchange": "Binance",
+            "cloudProvider": "GCP",
+            "city": "Frankfurt",
+            "country": "Germany",
+            "latitude": 50.1109,
+            "longitude": 8.6821,
+            "latency": 42
+        },
+        {
+            "id": "binance-us-gcp",
+            "name": "Binance US Central",
+            "exchange": "Binance",
+            "cloudProvider": "GCP",
+            "city": "Iowa",
+            "country": "USA",
+            "latitude": 41.6000,
+            "longitude": -91.5300,
+            "latency": 28
+        },
+        {
+            "id": "binance-za-aws",
+            "name": "Binance ZA",
+            "exchange": "Binance",
+            "cloudProvider": "AWS",
+            "city": "Cape Town",
+            "country": "South Africa",
+            "latitude": -33.9249,
+            "longitude": 18.4241,
+            "latency": 120
+        },
+        {
+            "id": "okx-hk-aws",
+            "name": "OKX HK",
+            "exchange": "OKX",
+            "cloudProvider": "AWS",
+            "city": "Hong Kong",
+            "country": "China",
+            "latitude": 22.3193,
+            "longitude": 114.1694,
+            "latency": 60
+        },
+        {
+            "id": "okx-sg-gcp",
+            "name": "OKX SG",
+            "exchange": "OKX",
+            "cloudProvider": "GCP",
+            "city": "Singapore",
+            "country": "Singapore",
+            "latitude": 1.3521,
+            "longitude": 103.8198,
+            "latency": 70
+        },
+        {
+            "id": "okx-uk-azure",
+            "name": "OKX UK",
+            "exchange": "OKX",
+            "cloudProvider": "Azure",
+            "city": "London",
+            "country": "UK",
+            "latitude": 51.5072,
+            "longitude": -0.1276,
+            "latency": 35
+        },
+        {
+            "id": "okx-in-aws",
+            "name": "OKX IN",
+            "exchange": "OKX",
+            "cloudProvider": "AWS",
+            "city": "Mumbai",
+            "country": "India",
+            "latitude": 19.0760,
+            "longitude": 72.8777,
+            "latency": 68
+        },
+        {
+            "id": "okx-br-gcp",
+            "name": "OKX BR",
+            "exchange": "OKX",
+            "cloudProvider": "GCP",
+            "city": "São Paulo",
+            "country": "Brazil",
+            "latitude": -23.5505,
+            "longitude": -46.6333,
+            "latency": 82
+        },
+        {
+            "id": "okx-au-azure",
+            "name": "OKX AU",
+            "exchange": "OKX",
+            "cloudProvider": "Azure",
+            "city": "Sydney",
+            "country": "Australia",
+            "latitude": -33.8688,
+            "longitude": 151.2093,
+            "latency": 88
+        },
+        {
+            "id": "okx-jp-aws",
+            "name": "OKX JP",
+            "exchange": "OKX",
+            "cloudProvider": "AWS",
+            "city": "Tokyo",
+            "country": "Japan",
+            "latitude": 35.6895,
+            "longitude": 139.6917,
+            "latency": 48
+        },
+        {
+            "id": "okx-ie-aws",
+            "name": "OKX IE",
+            "exchange": "OKX",
+            "cloudProvider": "AWS",
+            "city": "Dublin",
+            "country": "Ireland",
+            "latitude": 53.3498,
+            "longitude": -6.2603,
+            "latency": 36
+        },
+        {
+            "id": "okx-bh-gcp",
+            "name": "OKX BH",
+            "exchange": "OKX",
+            "cloudProvider": "GCP",
+            "city": "Manama",
+            "country": "Bahrain",
+            "latitude": 26.2285,
+            "longitude": 50.5860,
+            "latency": 110
+        },
+        {
+            "id": "okx-uae-azure",
+            "name": "OKX UAE",
+            "exchange": "OKX",
+            "cloudProvider": "Azure",
+            "city": "Dubai",
+            "country": "UAE",
+            "latitude": 25.2048,
+            "longitude": 55.2708,
+            "latency": 115
+        },
+        {
+            "id": "bybit-sg-aws",
+            "name": "Bybit SG",
+            "exchange": "Bybit",
+            "cloudProvider": "AWS",
+            "city": "Singapore",
+            "country": "Singapore",
+            "latitude": 1.3521,
+            "longitude": 103.8198,
+            "latency": 75
+        },
+        {
+            "id": "bybit-de-gcp",
+            "name": "Bybit DE",
+            "exchange": "Bybit",
+            "cloudProvider": "GCP",
+            "city": "Frankfurt",
+            "country": "Germany",
+            "latitude": 50.1109,
+            "longitude": 8.6821,
+            "latency": 40
+        },
+        {
+            "id": "bybit-in-aws",
+            "name": "Bybit IN",
+            "exchange": "Bybit",
+            "cloudProvider": "AWS",
+            "city": "Mumbai",
+            "country": "India",
+            "latitude": 19.0760,
+            "longitude": 72.8777,
+            "latency": 70
+        },
+        {
+            "id": "bybit-br-aws",
+            "name": "Bybit BR",
+            "exchange": "Bybit",
+            "cloudProvider": "AWS",
+            "city": "São Paulo",
+            "country": "Brazil",
+            "latitude": -23.5505,
+            "longitude": -46.6333,
+            "latency": 78
+        },
+        {
+            "id": "bybit-au-gcp",
+            "name": "Bybit AU",
+            "exchange": "Bybit",
+            "cloudProvider": "GCP",
+            "city": "Sydney",
+            "country": "Australia",
+            "latitude": -33.8688,
+            "longitude": 151.2093,
+            "latency": 90
+        },
+        {
+            "id": "bybit-jp-azure",
+            "name": "Bybit JP",
+            "exchange": "Bybit",
+            "cloudProvider": "Azure",
+            "city": "Tokyo",
+            "country": "Japan",
+            "latitude": 35.6895,
+            "longitude": 139.6917,
+            "latency": 50
+        },
+        {
+            "id": "bybit-us-aws",
+            "name": "Bybit US",
+            "exchange": "Bybit",
+            "cloudProvider": "AWS",
+            "city": "Virginia",
+            "country": "USA",
+            "latitude": 37.7680,
+            "longitude": -79.4446,
+            "latency": 25
+        },
+        {
+            "id": "bybit-ca-azure",
+            "name": "Bybit CA",
+            "exchange": "Bybit",
+            "cloudProvider": "Azure",
+            "city": "Toronto",
+            "country": "Canada",
+            "latitude": 43.6532,
+            "longitude": -79.3832,
+            "latency": 45
+        },
+        {
+            "id": "bybit-or-aws",
+            "name": "Bybit OR",
+            "exchange": "Bybit",
+            "cloudProvider": "AWS",
+            "city": "Portland",
+            "country": "USA",
+            "latitude": 45.5152,
+            "longitude": -122.6784,
+            "latency": 30
+        },
+        {
+            "id": "bybit-th-azure",
+            "name": "Bybit TH",
+            "exchange": "Bybit",
+            "cloudProvider": "Azure",
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7563,
+            "longitude": 100.5018,
+            "latency": 105
+        },
+        {
+            "id": "deribit-nl-aws",
+            "name": "Deribit NL",
+            "exchange": "Deribit",
+            "cloudProvider": "AWS",
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "latitude": 52.3676,
+            "longitude": 4.9041,
+            "latency": 30
+        },
+        {
+            "id": "deribit-ie-azure",
+            "name": "Deribit IE",
+            "exchange": "Deribit",
+            "cloudProvider": "Azure",
+            "city": "Dublin",
+            "country": "Ireland",
+            "latitude": 53.3498,
+            "longitude": -6.2603,
+            "latency": 38
+        },
+        {
+            "id": "deribit-sg-gcp",
+            "name": "Deribit SG",
+            "exchange": "Deribit",
+            "cloudProvider": "GCP",
+            "city": "Singapore",
+            "country": "Singapore",
+            "latitude": 1.3521,
+            "longitude": 103.8198,
+            "latency": 74
+        },
+        {
+            "id": "deribit-in-aws",
+            "name": "Deribit IN",
+            "exchange": "Deribit",
+            "cloudProvider": "AWS",
+            "city": "Mumbai",
+            "country": "India",
+            "latitude": 19.0760,
+            "longitude": 72.8777,
+            "latency": 66
+        },
+        {
+            "id": "deribit-uk-azure",
+            "name": "Deribit UK",
+            "exchange": "Deribit",
+            "cloudProvider": "Azure",
+            "city": "London",
+            "country": "UK",
+            "latitude": 51.5072,
+            "longitude": -0.1276,
+            "latency": 34
+        },
+        {
+            "id": "deribit-br-gcp",
+            "name": "Deribit BR",
+            "exchange": "Deribit",
+            "cloudProvider": "GCP",
+            "city": "São Paulo",
+            "country": "Brazil",
+            "latitude": -23.5505,
+            "longitude": -46.6333,
+            "latency": 79
+        },
+        {
+            "id": "deribit-au-azure",
+            "name": "Deribit AU",
+            "exchange": "Deribit",
+            "cloudProvider": "Azure",
+            "city": "Sydney",
+            "country": "Australia",
+            "latitude": -33.8688,
+            "longitude": 151.2093,
+            "latency": 87
+        },
+        {
+            "id": "deribit-fr-aws",
+            "name": "Deribit FR",
+            "exchange": "Deribit",
+            "cloudProvider": "AWS",
+            "city": "Paris",
+            "country": "France",
+            "latitude": 48.8566,
+            "longitude": 2.3522,
+            "latency": 37
+        },
+        {
+            "id": "other-kr-other",
+            "name": "Upbit KR",
+            "exchange": "Other",
+            "cloudProvider": "Other",
+            "city": "Seoul",
+            "country": "South Korea",
+            "latitude": 37.5665,
+            "longitude": 126.9780,
+            "latency": 55
+        },
+        {
+            "id": "other-cl-other",
+            "name": "Buda CL",
+            "exchange": "Other",
+            "cloudProvider": "Other",
+            "city": "Santiago",
+            "country": "Chile",
+            "latitude": -33.4489,
+            "longitude": -70.6693,
+            "latency": 125
+        }
+    ],
+    "regions": [
+        {
+            "id": "aws-us-east-1",
+            "provider": "AWS",
+            "name": "US East (N. Virginia)",
+            "code": "us-east-1",
+            "latitude": 38.95,
+            "longitude": -77.45
+        },
+        {
+            "id": "aws-ap-northeast-1",
+            "provider": "AWS",
+            "name": "Asia Pacific (Tokyo)",
+            "code": "ap-northeast-1",
+            "latitude": 35.68,
+            "longitude": 139.76
+        },
+        {
+            "id": "aws-ap-southeast-1",
+            "provider": "AWS",
+            "name": "Asia Pacific (Singapore)",
+            "code": "ap-southeast-1",
+            "latitude": 1.35,
+            "longitude": 103.81
+        },
+        {
+            "id": "aws-eu-west-1",
+            "provider": "AWS",
+            "name": "EU (Ireland)",
+            "code": "eu-west-1",
+            "latitude": 53.34,
+            "longitude": -6.26
+        },
+        {
+            "id": "aws-eu-central-1",
+            "provider": "AWS",
+            "name": "EU (Frankfurt)",
+            "code": "eu-central-1",
+            "latitude": 50.11,
+            "longitude": 8.68
+        },
+        {
+            "id": "aws-ap-south-1",
+            "provider": "AWS",
+            "name": "Asia Pacific (Mumbai)",
+            "code": "ap-south-1",
+            "latitude": 19.07,
+            "longitude": 72.87
+        },
+        {
+            "id": "aws-sa-east-1",
+            "provider": "AWS",
+            "name": "South America (São Paulo)",
+            "code": "sa-east-1",
+            "latitude": -23.55,
+            "longitude": -46.63
+        },
+        {
+            "id": "aws-us-west-2",
+            "provider": "AWS",
+            "name": "US West (Oregon)",
+            "code": "us-west-2",
+            "latitude": 45.52,
+            "longitude": -122.68
+        },
+        {
+            "id": "aws-eu-west-2",
+            "provider": "AWS",
+            "name": "EU (London)",
+            "code": "eu-west-2",
+            "latitude": 51.50,
+            "longitude": -0.13
+        },
+        {
+            "id": "aws-ap-northeast-2",
+            "provider": "AWS",
+            "name": "Asia Pacific (Seoul)",
+            "code": "ap-northeast-2",
+            "latitude": 37.56,
+            "longitude": 126.97
+        },
+        {
+            "id": "aws-ap-southeast-2",
+            "provider": "AWS",
+            "name": "Asia Pacific (Sydney)",
+            "code": "ap-southeast-2",
+            "latitude": -33.86,
+            "longitude": 151.21
+        },
+        {
+            "id": "aws-ca-central-1",
+            "provider": "AWS",
+            "name": "Canada (Central)",
+            "code": "ca-central-1",
+            "latitude": 45.50,
+            "longitude": -73.57
+        },
+        {
+            "id": "aws-eu-west-3",
+            "provider": "AWS",
+            "name": "EU (Paris)",
+            "code": "eu-west-3",
+            "latitude": 48.86,
+            "longitude": 2.35
+        },
+        {
+            "id": "aws-me-south-1",
+            "provider": "AWS",
+            "name": "Middle East (Bahrain)",
+            "code": "me-south-1",
+            "latitude": 26.23,
+            "longitude": 50.58
+        },
+        {
+            "id": "aws-af-south-1",
+            "provider": "AWS",
+            "name": "Africa (Cape Town)",
+            "code": "af-south-1",
+            "latitude": -33.92,
+            "longitude": 18.42
+        },
+        {
+            "id": "aws-ap-east-1",
+            "provider": "AWS",
+            "name": "Asia Pacific (Hong Kong)",
+            "code": "ap-east-1",
+            "latitude": 22.31,
+            "longitude": 114.17
+        },
+        {
+            "id": "aws-eu-north-1",
+            "provider": "AWS",
+            "name": "EU (Stockholm)",
+            "code": "eu-north-1",
+            "latitude": 59.33,
+            "longitude": 18.07
+        },
+        {
+            "id": "aws-ap-southeast-3",
+            "provider": "AWS",
+            "name": "Asia Pacific (Jakarta)",
+            "code": "ap-southeast-3",
+            "latitude": -6.20,
+            "longitude": 106.85
+        },
+        {
+            "id": "aws-me-central-1",
+            "provider": "AWS",
+            "name": "Middle East (UAE)",
+            "code": "me-central-1",
+            "latitude": 25.20,
+            "longitude": 55.27
+        },
+        {
+            "id": "gcp-us-central1",
+            "provider": "GCP",
+            "name": "Iowa",
+            "code": "us-central1",
+            "latitude": 41.6,
+            "longitude": -91.53
+        },
+        {
+            "id": "gcp-asia-southeast1",
+            "provider": "GCP",
+            "name": "Singapore",
+            "code": "asia-southeast1",
+            "latitude": 1.35,
+            "longitude": 103.81
+        },
+        {
+            "id": "gcp-europe-west3",
+            "provider": "GCP",
+            "name": "Frankfurt",
+            "code": "europe-west3",
+            "latitude": 50.11,
+            "longitude": 8.68
+        },
+        {
+            "id": "gcp-southamerica-east1",
+            "provider": "GCP",
+            "name": "São Paulo",
+            "code": "southamerica-east1",
+            "latitude": -23.55,
+            "longitude": -46.63
+        },
+        {
+            "id": "gcp-australia-southeast1",
+            "provider": "GCP",
+            "name": "Sydney",
+            "code": "australia-southeast1",
+            "latitude": -33.86,
+            "longitude": 151.21
+        },
+        {
+            "id": "gcp-us-west1",
+            "provider": "GCP",
+            "name": "Oregon",
+            "code": "us-west1",
+            "latitude": 45.52,
+            "longitude": -122.68
+        },
+        {
+            "id": "gcp-europe-west1",
+            "provider": "GCP",
+            "name": "Belgium",
+            "code": "europe-west1",
+            "latitude": 50.85,
+            "longitude": 4.35
+        },
+        {
+            "id": "gcp-asia-east1",
+            "provider": "GCP",
+            "name": "Taiwan",
+            "code": "asia-east1",
+            "latitude": 23.69,
+            "longitude": 120.96
+        },
+        {
+            "id": "gcp-asia-south1",
+            "provider": "GCP",
+            "name": "Mumbai",
+            "code": "asia-south1",
+            "latitude": 19.07,
+            "longitude": 72.87
+        },
+        {
+            "id": "gcp-europe-west4",
+            "provider": "GCP",
+            "name": "Netherlands",
+            "code": "europe-west4",
+            "latitude": 52.36,
+            "longitude": 4.90
+        },
+        {
+            "id": "gcp-asia-northeast1",
+            "provider": "GCP",
+            "name": "Tokyo",
+            "code_attention": "gcp-asia-northeast1",
+            "latitude": 35.68,
+            "longitude": 139.76
+        },
+        {
+            "id": "gcp-us-east1",
+            "provider": "GCP",
+            "name": "South Carolina",
+            "code": "us-east1",
+            "latitude": 33.92,
+            "longitude": -79.04
+        },
+        {
+            "id": "gcp-asia-northeast2",
+            "provider": "GCP",
+            "name": "Osaka",
+            "code": "asia-northeast2",
+            "latitude": 34.69,
+            "longitude": 135.50
+        },
+        {
+            "id": "gcp-europe-west2",
+            "provider": "GCP",
+            "name": "London",
+            "code": "europe-west2",
+            "latitude": 51.50,
+            "longitude": -0.13
+        },
+        {
+            "id": "gcp-asia-southeast2",
+            "provider": "GCP",
+            "name": "Jakarta",
+            "code": "asia-southeast2",
+            "latitude": -6.20,
+            "longitude": 106.85
+        },
+        {
+            "id": "azure-eastus",
+            "provider": "Azure",
+            "name": "East US",
+            "code": "eastus",
+            "latitude": 37.76,
+            "longitude": -79.44
+        },
+        {
+            "id": "azure-japaneast",
+            "provider": "Azure",
+            "name": "Japan East",
+            "code": "japaneast",
+            "latitude": 35.68,
+            "longitude": 139.76
+        },
+        {
+            "id": "azure-uksouth",
+            "provider": "Azure",
+            "name": "UK South",
+            "code": "uksouth",
+            "latitude": 51.5,
+            "longitude": -0.12
+        },
+        {
+            "id": "azure-westeurope",
+            "provider": "Azure",
+            "name": "West Europe",
+            "code": "westeurope",
+            "latitude": 52.36,
+            "longitude": 4.90
+        },
+        {
+            "id": "azure-australiaeast",
+            "provider": "Azure",
+            "name": "Australia East",
+            "code": "australiaeast",
+            "latitude": -33.86,
+            "longitude": 151.21
+        },
+        {
+            "id": "azure-westus",
+            "provider": "Azure",
+            "name": "West US",
+            "code": "westus",
+            "latitude": 37.77,
+            "longitude": -122.42
+        },
+        {
+            "id": "azure-canadacentral",
+            "provider": "Azure",
+            "name": "Canada Central",
+            "code": "canadacentral",
+            "latitude": 43.65,
+            "longitude": -79.38
+        },
+        {
+            "id": "azure-francecentral",
+            "provider": "Azure",
+            "name": "France Central",
+            "code": "francecentral",
+            "latitude": 48.86,
+            "longitude": 2.35
+        }
+    ],
+    "realTimeData": {
+        "servers": [
+            {
+                "id": "binance-us-azure",
+                "accuracy": 99,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "binance-jp-aws",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "binance-sg-gcp",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "binance-in-aws",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "binance-br-aws",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "binance-au-gcp",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "binance-nl-azure",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "binance-de-gcp",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "binance-us-gcp",
+                "accuracy": 99,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "binance-za-aws",
+                "accuracy": 95,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "okx-hk-aws",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "okx-sg-gcp",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "okx-uk-azure",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "okx-in-aws",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "okx-br-gcp",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "okx-au-azure",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "okx-jp-aws",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "okx-ie-aws",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "okx-bh-gcp",
+                "accuracy": 95,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "okx-uae-azure",
+                "accuracy": 95,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "bybit-sg-aws",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "bybit-de-gcp",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "bybit-in-aws",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "bybit-br-aws",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "bybit-au-gcp",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "bybit-jp-azure",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "bybit-us-aws",
+                "accuracy": 99,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "bybit-ca-azure",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "bybit-or-aws",
+                "accuracy": 99,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "bybit-th-azure",
+                "accuracy": 95,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "deribit-nl-aws",
+                "accuracy": 99,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "deribit-ie-azure",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "deribit-sg-gcp",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "deribit-in-aws",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "deribit-uk-azure",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "deribit-br-gcp",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "deribit-au-azure",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "deribit-fr-aws",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "other-kr-other",
+                "accuracy": 95,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "other-cl-other",
+                "accuracy": 95,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            }
+        ],
+        "regions": [
+            {
+                "id": "aws-us-east-1",
+                "accuracy": 99,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-ap-northeast-1",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-ap-southeast-1",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-eu-west-1",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-eu-central-1",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-ap-south-1",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-sa-east-1",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-us-west-2",
+                "accuracy": 99,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-eu-west-2",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-ap-northeast-2",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-ap-southeast-2",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-ca-central-1",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-eu-west-3",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-me-south-1",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-af-south-1",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-ap-east-1",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-eu-north-1",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-ap-southeast-3",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "aws-me-central-1",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-us-central1",
+                "accuracy": 99,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-asia-southeast1",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-europe-west3",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-southamerica-east1",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-australia-southeast1",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-us-west1",
+                "accuracy": 99,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-europe-west1",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-asia-east1",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-asia-south1",
+                "accuracy": 97,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-europe-west4",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-asia-northeast1",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-us-east1",
+                "accuracy": 99,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-asia-northeast2",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-europe-west2",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "gcp-asia-southeast2",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "azure-eastus",
+                "accuracy": 99,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "azure-japaneast",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "azure-uksouth",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "azure-westeurope",
+                "accuracy": 98,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "azure-australiaeast",
+                "accuracy": 96,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            },
+            {
+                "id": "azure-westus",
+                "accuracy": 99,
+                "lastUpdated": "2025-07-25T02:07:00+05:30"
+            }
+        ]
+    }
+}
