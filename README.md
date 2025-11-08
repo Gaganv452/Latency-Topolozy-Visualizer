@@ -1,5 +1,3 @@
-# Latency-Topolozy-Visualize
-
 # Latency Topology Visualizer
 
 A comprehensive web application for visualizing network latency topology across global servers, tracking market data, and analyzing historical latency trends. Built with Next.js, Three.js, and modern React patterns.
